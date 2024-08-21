@@ -18,7 +18,7 @@
 7 .envファイル内のDB_DATABASEの値を/var/www/database/database.sqliteにしましょう。
 8 php artisan key:generate こちらのコマンドでアプリケーションキーの作成をしましょう。
 9 php artisan migrate:fresh　こちらのコマンドでマイグレーションを行いましょう。
-10 上記まで終えるとアプリが起動しているはずです、http://localhost:8080にアクセスしましょう。
+10 上記まで終えるとアプリが起動しているはずです、http://localhost:8080　にアクセスしましょう。
 
 
 
